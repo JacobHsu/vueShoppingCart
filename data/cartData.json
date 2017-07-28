@@ -1,0 +1,42 @@
+{
+  "status":1,
+  "result":{
+    "totalMoney":0,
+    "list":[
+      {
+        "productId":"201609080002",
+        "productName":"小米手環 2 黑色",
+        "productPrice":865,
+        "productQuantity":1,
+        "productImage":"static/img/miband2.png",
+        "parts":[
+          {
+            "partsId":"10001",
+            "partsName":"多彩腕帶 藍色",
+            "imgSrc":"static/img/miband2-part-1.png"
+          },
+          {
+            "partsId":"10002",
+            "partsName":"多彩腕帶 綠色",
+            "imgSrc":"static/img/miband2-part-2.png"
+          }
+        ]
+      },
+      {
+        "productId":"600100002120",
+        "productName":"紅米Note 4X 多彩金屬",
+        "productPrice":4999,
+        "productQuantity":1,
+        "productImage":"static/img/redminote4x.jpg",
+        "parts":[
+          {
+            "partsId":"20001",
+            "partsName":"普通高透保護貼",
+            "imgSrc":"static/img/redminote-part-1.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "message":""
+}

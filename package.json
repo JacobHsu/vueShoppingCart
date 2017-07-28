@@ -1,0 +1,23 @@
+{
+  "name": "vueshoppingcart",
+  "version": "1.0.0",
+  "description": "[Vue.js](https://vuejs.org/) Shopping Cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHsu/vueShoppingCart.git"
+  },
+  "author": "Jacob Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHsu/vueShoppingCart/issues"
+  },
+  "homepage": "https://github.com/JacobHsu/vueShoppingCart#readme",
+  "dependencies": {
+    "vue": "^2.3.4",
+    "vue-resource": "^1.3.4"
+  }
+}
